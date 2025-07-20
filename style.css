@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.choices {
+    margin: 20px;
+}
+
+.choice {
+    font-size: 1.5em;
+    padding: 15px 30px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#result {
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+
+#score {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
